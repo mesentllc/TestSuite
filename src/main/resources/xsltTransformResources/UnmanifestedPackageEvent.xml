@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rus:UnmanifestedPackageEvent xmlns:ns3="http://smartpost.fedex.com/schemas/common/postal/parcel" xmlns:ros="http://smartpost.fedex.com/schemas/RodesRodesOutboundSubscriber/FxspRodesPackageEvent" xmlns:ns2="http://smartpost.fedex.com/schemas/common/postal" xmlns:rus="http://smartpost.fedex.com/schemas/RodesRodesPkgEventProcSubscriber/FxspRodesUnmanifestedPackageEvent">
+    <ros:FedexPkgId>61299998160727761267</ros:FedexPkgId>
+    <ros:ChanlAppId>92</ros:ChanlAppId>
+    <ros:MailerId>999981607</ros:MailerId>
+    <ros:SpPkgWgt>9.4</ros:SpPkgWgt>
+    <ros:EventDate>2015-06-05T</ros:EventDate>
+    <ros:SpPkgLength>24</ros:SpPkgLength>
+    <ros:SpPkgWidth>19</ros:SpPkgWidth>
+    <ros:SpPkgHgt>8</ros:SpPkgHgt>
+    <ros:DestinationSortCode>11374</ros:DestinationSortCode>
+    <ros:HubCd>5431</ros:HubCd>
+    <ros:PstlClass>PS</ros:PstlClass>
+    <ros:PkgCategoryCd>I</ros:PkgCategoryCd>
+    <ros:PkgTypeCd>N</ros:PkgTypeCd>
+    <ros:PostalCode>11374</ros:PostalCode>
+    <ros:MsgValuesForHashId>&lt;PkgEventTypeCd&gt;UNMANIFESTED&lt;/PkgEventTypeCd&gt;&lt;EventDate&gt;2015-06-05Z&lt;/EventDate&gt;&lt;FedexPkgId&gt;61299998160727761267&lt;/FedexPkgId&gt;</ros:MsgValuesForHashId>
+    <rus:ScanFacilityPostalCode>NA</rus:ScanFacilityPostalCode>
+    <rus:ReleaseTypeCode>U</rus:ReleaseTypeCode>
+    <rus:UnmanifestedStatus>US</rus:UnmanifestedStatus>
+    <rus:PostageAmount>0.0</rus:PostageAmount>
+    <rus:ClientName>TOYS R US RETURNS E COMMERCE/FEDEX SMART</rus:ClientName>
+    <rus:PTSTransmissionDate>2015-06-09</rus:PTSTransmissionDate>
+    <rus:ScanDate>2015-06-05</rus:ScanDate>
+    <rus:UnmanifestMailClass>BP</rus:UnmanifestMailClass>
+    <rus:StoreOrderCreateEventEnable>false</rus:StoreOrderCreateEventEnable>
+    <rus:StoreUnmanifestEventEnableIfNoStatusExistsInTable>true</rus:StoreUnmanifestEventEnableIfNoStatusExistsInTable>
+    <rus:StoreUnmanifestEventEnableIfStatusIsUPinTable>true</rus:StoreUnmanifestEventEnableIfStatusIsUPinTable>
+    <rus:StorePackageEventEnable>true</rus:StorePackageEventEnable>
+    <rus:CheckPkgIdInBpTableEnable>false</rus:CheckPkgIdInBpTableEnable>
+    <ros:PkgEventTypeCd>UNMANIFESTED</ros:PkgEventTypeCd>
+    <ros:SavingErrorMessageEnable>true</ros:SavingErrorMessageEnable>
+    <ros:SavingBadMessageEnable>true</ros:SavingBadMessageEnable>
+    <ros:MessageAccepted>true</ros:MessageAccepted>
+    <ros:PkgEventStatusCd>NEW</ros:PkgEventStatusCd>
+    <ros:Identity>RODES-UNMAN-</ros:Identity>
+    <ros:TicklePublisherParmName>Unmanifested.TicklePublisherEnable</ros:TicklePublisherParmName>
+</rus:UnmanifestedPackageEvent>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:UspsPostage xmlns:ns2="http://smartpost.fedex.com/schemas/common/postal" xmlns:ns4="http://smartpost.fedex.com/schemas/common/postal/uspsTracking"
+                 xmlns:ns3="http://smartpost.fedex.com/schemas/common/postal/parcel">
+   <PackageId>61299998160727761267</PackageId>
+   <Weight>9.4</Weight>
+   <ApplId>92</ApplId>
+   <Length>24</Length>
+   <Width>19</Width>
+   <Height>8</Height>
+   <DestinationSortCode>11374</DestinationSortCode>
+   <EntryPostalCode>43218</EntryPostalCode>
+   <ns2:HubId>5431</ns2:HubId>\
+   <Oversize>false</Oversize>
+   <Balloon>false</Balloon>
+   <UspsMailClass>PS</UspsMailClass>
+   <UspsProcessingCategory>5</UspsProcessingCategory>
+   <UspsDestRateInd>D</UspsDestRateInd>
+   <UspsZone>00</UspsZone>
+   <UspsBarcodeCode>1</UspsBarcodeCode>
+   <ProductCode>STD</ProductCode>
+   <ReleaseTypeCode>U</ReleaseTypeCode>
+   <LoadCloseDate>2015-06-12T15:21:23.457Z</LoadCloseDate>
+   <UspsDelivConf>true</UspsDelivConf>
+   <PostageTrans>
+      <RateId>929</RateId>
+      <PostageAmount>2.21</PostageAmount>
+      <PostageWeight>10</PostageWeight>
+   </PostageTrans>
+   <Unmanifested>
+      <EventDate>2015-06-05Z</EventDate>
+      <RectifySource>EPDI</RectifySource>
+      <Status>US</Status>
+      <PostageAmount>0.0</PostageAmount>
+      <ClientName>TOYS R US RETURNS E COMMERCE/FEDEX SMART</ClientName>
+      <PTSTransmissionDate>2015-06-09Z</PTSTransmissionDate>
+      <MailerId>999981607</MailerId>
+      <MailClass>BP</MailClass>
+   </Unmanifested>
+</ns3:UspsPostage>
